@@ -1,0 +1,36 @@
+{
+    "documents": [
+      {
+        "id": "1",
+        "keyPhrases": [
+          "bedroom",
+          "Buckingham Palace",
+          "Clean rooms",
+          "courtyard",
+          "enormous bathroom",
+          "fish",
+          "Good Hotel",
+          "good service",
+          "great location",
+          "kitchen",
+          "London",
+          "lounge",
+          "Michelin Star",
+          "part",
+          "plenty",
+          "restaurant",
+          "same group",
+          "staff",
+          "stay",
+          "taster menu",
+          "The Royal Hotel",
+          "UK",
+          "West coast",
+          "Westminster Abbey"
+        ],
+        "warnings": []
+      }
+    ],
+    "errors": [],
+    "modelVersion": "2022-10-01"
+  }

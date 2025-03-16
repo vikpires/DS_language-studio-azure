@@ -1,0 +1,104 @@
+hotel
+Type: Location
+Offset: 7
+Length: 5
+Confidence: 81%
+Tags
+Location (81%)
+
+Hotel
+Type: Organization
+Offset: 42
+Length: 5
+Confidence: 62%
+Tags
+Organization (62%)
+
+London, United
+Type: Address
+Offset: 49
+Length: 14
+Confidence: 57.99999999999999%
+Tags
+Address (57.99999999999999%)
+
+United Kingdom
+Type: CountryRegion
+Offset: 57
+Length: 14
+Confidence: 100%
+Tags
+CountryRegion (100%)GPE (100%)Location (100%)
+
+5/6/2018
+Type: Date
+Offset: 73
+Length: 8
+Confidence: 80%
+Tags
+Date (80%)DateTime (80%)
+Metadata
+Timex: 2018-05-06
+Value: 2018-05-06
+
+hotel
+Type: Location
+Offset: 98
+Length: 5
+Confidence: 79%
+Tags
+Location (79%)
+
+since 1950's
+Type: DateRange
+Offset: 121
+Length: 12
+Confidence: 80%
+Tags
+DateRange (80%)DateTime (80%)
+Metadata
+Timex: (1950-01-01,1960-01-01,P10Y)
+duration: P10Y
+
+now
+Type: DateAndTime
+Offset: 193
+Length: 3
+Confidence: 80%
+Tags
+DateAndTime (80%)DateTime (80%)
+Metadata
+Timex: PRESENT_REF
+Value: 2025-03-16 18:46:51
+
+office rooms
+Type: Location
+Offset: 276
+Length: 12
+Confidence: 93%
+Tags
+Location (93%)
+
+flight
+Type: Event
+Offset: 308
+Length: 6
+Confidence: 66%
+Tags
+Event (66%)
+
+home
+Type: Location
+Offset: 315
+Length: 4
+Confidence: 85%
+Tags
+Location (85%)
+
+British Museum
+Type: Location
+Offset: 356
+Length: 14
+Confidence: 94%
+Tags
+Location (94%)

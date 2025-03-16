@@ -1,0 +1,70 @@
+{
+    "data": {
+        "kind": "SentimentAnalysisResults",
+        "results": {
+            "documents": [
+                {
+                    "id": "1",
+                    "sentiment": "mixed",
+                    "confidenceScores": {
+                        "positive": 0.66,
+                        "neutral": 0,
+                        "negative": 0.34
+                    },
+                    "sentences": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.98,
+                                "neutral": 0.01,
+                                "negative": 0.01
+                            },
+                            "offset": 0,
+                            "length": 23,
+                            "text": "I like Amazon but ???? "
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.98,
+                                "neutral": 0,
+                                "negative": 0.01
+                            },
+                            "offset": 23,
+                            "length": 227,
+                            "text": "I like Amazon, use it a lot, returns are really easy, my only grip is the next day delivery, I am a prime member and the day delivery gets here so late in the day its to late to do anything with it but make sure its all there. "
+                        },
+                        {
+                            "sentiment": "neutral",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "neutral": 0.91,
+                                "negative": 0.09
+                            },
+                            "offset": 250,
+                            "length": 138,
+                            "text": "Ordered yesterday and it said delivery about 1pm and every time that happens you check about 1pm and it says now between 16:30 and 19:30. "
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "neutral": 0,
+                                "negative": 1
+                            },
+                            "offset": 388,
+                            "length": 55,
+                            "text": "it is not good enough it is always the same too late???"
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2025-01-01"
+        }
+    },
+    "headers": {},
+    "status": 200,
+    "statusText": ""
+}

@@ -1,0 +1,63 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2025-03-16T18:37:51.728082Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The reviewer experienced significant noise pollution and small room sizes during their stay at The Lombard Hotel in San Francisco, primarily due to its location on Lombard Street, a bustling six-lane thoroughfare near the Golden Gate Bridge. Despite the hotel'dedouble efforts to update rooms, the insulation was inadequate, necessitating the use of cotton balls to block out the noise for sleep. The chosen room, intended to accommodate two queen-sized beds for a standard stay, fell short in space, making it uncomfortably cramped for a family of four. However, the hotel was noted for its cleanliness and convenient location in the Marina District, which offers numerous dining options within walking distance. The overall tone suggests a mixed experience, potentially suitable for young adults seeking budget accommodations with late-night activities nearby, though the noise and space constraints were major drawbacks. The review highlights the need for better room insulation to enhance the guest experience.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 838
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__130",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2024-10-25-phi35"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2025-03-16T18:37:48.3260571Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__130",
+                    "sentences": [
+                        {
+                            "text": "Very noisy and rooms are tiny",
+                            "rankScore": 0.78,
+                            "offset": 1,
+                            "length": 29
+                        },
+                        {
+                            "text": "The Lombard Hotel, San Francisco, USA",
+                            "rankScore": 1,
+                            "offset": 32,
+                            "length": 37
+                        },
+                        {
+                            "text": "Hotel is located on Lombard street which is a very busy SIX lane street directly off the Golden Gate Bridge.",
+                            "rankScore": 0.76,
+                            "offset": 81,
+                            "length": 108
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2024-11-04"
+        }
+    }
+]

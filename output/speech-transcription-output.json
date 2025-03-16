@@ -1,0 +1,792 @@
+[
+    {
+        "Id": "b2667ddee8b54a268ad27d5ab84b0389",
+        "RecognitionStatus": 0,
+        "Offset": 8700000,
+        "Duration": 153200000,
+        "Channel": 0,
+        "DisplayText": "AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages, empower smart infrastructure, create incredible entertainment experiences, and even save the planet.",
+        "NBest": [
+            {
+                "Confidence": 0.82574546,
+                "Lexical": "AI enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planet",
+                "ITN": "AI enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planet",
+                "MaskedITN": "ai enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planet",
+                "Display": "AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages, empower smart infrastructure, create incredible entertainment experiences, and even save the planet.",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enables",
+                        "Offset": 15100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "us",
+                        "Offset": 20300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 21900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "build",
+                        "Offset": 23100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "amazing",
+                        "Offset": 25900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "software",
+                        "Offset": 32300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 36700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 39100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "improve",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "healthcare",
+                        "Offset": 44700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 55500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 59900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 62700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "overcome",
+                        "Offset": 63900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "physical",
+                        "Offset": 69100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "disadvantages",
+                        "Offset": 73100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "empower",
+                        "Offset": 89100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "smart",
+                        "Offset": 93500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "infrastructure",
+                        "Offset": 97100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "create",
+                        "Offset": 111100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "incredible",
+                        "Offset": 116300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 122300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "experiences",
+                        "Offset": 129500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 143900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 151500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "planet",
+                        "Offset": 156300000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8064438,
+                "Lexical": "ai enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planet",
+                "ITN": "ai enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planet",
+                "MaskedITN": "ai enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planet",
+                "Display": "AI enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planet",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enables",
+                        "Offset": 15100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "us",
+                        "Offset": 20300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 21900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "build",
+                        "Offset": 23100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "amazing",
+                        "Offset": 25900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "software",
+                        "Offset": 32300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 36700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 39100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "improve",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "health",
+                        "Offset": 44700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "care",
+                        "Offset": 47500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 55500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 59900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 62700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "overcome",
+                        "Offset": 63900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "physical",
+                        "Offset": 69100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "disadvantages",
+                        "Offset": 73100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "empower",
+                        "Offset": 89100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "smart",
+                        "Offset": 93500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "infrastructure",
+                        "Offset": 97100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "create",
+                        "Offset": 111100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "incredible",
+                        "Offset": 116300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 122300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "experiences",
+                        "Offset": 129500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 143900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 151500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "planet",
+                        "Offset": 156300000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.81692135,
+                "Lexical": "ai enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "ITN": "ai enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "MaskedITN": "ai enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "Display": "AI enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enables",
+                        "Offset": 15100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "us",
+                        "Offset": 20300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 21900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "build",
+                        "Offset": 23100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "amazing",
+                        "Offset": 25900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "software",
+                        "Offset": 32300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 36700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 39100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "improve",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "healthcare",
+                        "Offset": 44700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 55500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 59900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 62700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "overcome",
+                        "Offset": 63900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "physical",
+                        "Offset": 69100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "disadvantages",
+                        "Offset": 73100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "empower",
+                        "Offset": 89100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "smart",
+                        "Offset": 93500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "infrastructure",
+                        "Offset": 97100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "create",
+                        "Offset": 111100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "incredible",
+                        "Offset": 116300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 122300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "experiences",
+                        "Offset": 129500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 143900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 151500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "planets",
+                        "Offset": 156300000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8019601,
+                "Lexical": "ai enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure creating credible entertainment experiences and even save the planet",
+                "ITN": "ai enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure creating credible entertainment experiences and even save the planet",
+                "MaskedITN": "ai enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure creating credible entertainment experiences and even save the planet",
+                "Display": "AI enables us to build amazing software that can improve healthcare enable people to overcome physical disadvantages empower smart infrastructure creating credible entertainment experiences and even save the planet",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enables",
+                        "Offset": 15100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "us",
+                        "Offset": 20300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 21900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "build",
+                        "Offset": 23100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "amazing",
+                        "Offset": 25900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "software",
+                        "Offset": 32300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 36700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 39100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "improve",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "healthcare",
+                        "Offset": 44700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 55500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 59900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 62700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "overcome",
+                        "Offset": 63900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "physical",
+                        "Offset": 69100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "disadvantages",
+                        "Offset": 73100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "empower",
+                        "Offset": 89100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "smart",
+                        "Offset": 93500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "infrastructure",
+                        "Offset": 97100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "creating",
+                        "Offset": 111100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "credible",
+                        "Offset": 117500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 122300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "experiences",
+                        "Offset": 129500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 143900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 151500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "planet",
+                        "Offset": 156300000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.79791385,
+                "Lexical": "ai enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "ITN": "ai enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "MaskedITN": "ai enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "Display": "AI enables us to build amazing software that can improve health care enable people to overcome physical disadvantages empower smart infrastructure create incredible entertainment experiences and even save the planets",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enables",
+                        "Offset": 15100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "us",
+                        "Offset": 20300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 21900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "build",
+                        "Offset": 23100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "amazing",
+                        "Offset": 25900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "software",
+                        "Offset": 32300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 36700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 39100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "improve",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "health",
+                        "Offset": 44700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "care",
+                        "Offset": 47500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 55500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 59900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 62700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "overcome",
+                        "Offset": 63900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "physical",
+                        "Offset": 69100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "disadvantages",
+                        "Offset": 73100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "empower",
+                        "Offset": 89100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "smart",
+                        "Offset": 93500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "infrastructure",
+                        "Offset": 97100000,
+                        "Duration": 12000000
+                    },
+                    {
+                        "Word": "create",
+                        "Offset": 111100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "incredible",
+                        "Offset": 116300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 122300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "experiences",
+                        "Offset": 129500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 143900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 151500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "planets",
+                        "Offset": 156300000,
+                        "Duration": 7600000
+                    }
+                ]
+            }
+        ]
+    }
+]

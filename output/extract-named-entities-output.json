@@ -1,0 +1,232 @@
+{
+    "documents": [
+      {
+        "id": "1",
+        "entities": [
+          {
+            "text": "hotel",
+            "category": "Location",
+            "type": "Location",
+            "offset": 7,
+            "length": 5,
+            "confidenceScore": 0.81,
+            "tags": [
+              {
+                "name": "Location",
+                "confidenceScore": 0.81
+              }
+            ]
+          },
+          {
+            "text": "Hotel",
+            "category": "Organization",
+            "type": "Organization",
+            "offset": 42,
+            "length": 5,
+            "confidenceScore": 0.62,
+            "tags": [
+              {
+                "name": "Organization",
+                "confidenceScore": 0.62
+              }
+            ]
+          },
+          {
+            "text": "London, United",
+            "category": "Address",
+            "type": "Address",
+            "offset": 49,
+            "length": 14,
+            "confidenceScore": 0.58,
+            "tags": [
+              {
+                "name": "Address",
+                "confidenceScore": 0.58
+              }
+            ]
+          },
+          {
+            "text": "United Kingdom",
+            "category": "Location",
+            "subcategory": "CountryRegion",
+            "type": "CountryRegion",
+            "offset": 57,
+            "length": 14,
+            "confidenceScore": 1,
+            "tags": [
+              {
+                "name": "CountryRegion",
+                "confidenceScore": 1
+              },
+              {
+                "name": "GPE",
+                "confidenceScore": 1
+              },
+              {
+                "name": "Location",
+                "confidenceScore": 1
+              }
+            ]
+          },
+          {
+            "text": "5/6/2018",
+            "category": "DateTime",
+            "subcategory": "Date",
+            "type": "Date",
+            "offset": 73,
+            "length": 8,
+            "confidenceScore": 0.8,
+            "tags": [
+              {
+                "name": "Date",
+                "confidenceScore": 0.8
+              },
+              {
+                "name": "DateTime",
+                "confidenceScore": 0.8
+              }
+            ],
+            "metadata": {
+              "metadataKind": "DateMetadata",
+              "dateValues": [
+                {
+                  "timex": "2018-05-06",
+                  "value": "2018-05-06"
+                }
+              ]
+            }
+          },
+          {
+            "text": "hotel",
+            "category": "Location",
+            "type": "Location",
+            "offset": 98,
+            "length": 5,
+            "confidenceScore": 0.79,
+            "tags": [
+              {
+                "name": "Location",
+                "confidenceScore": 0.79
+              }
+            ]
+          },
+          {
+            "text": "since 1950's",
+            "category": "DateTime",
+            "subcategory": "DateRange",
+            "type": "DateRange",
+            "offset": 121,
+            "length": 12,
+            "confidenceScore": 0.8,
+            "tags": [
+              {
+                "name": "DateRange",
+                "confidenceScore": 0.8
+              },
+              {
+                "name": "DateTime",
+                "confidenceScore": 0.8
+              }
+            ],
+            "metadata": {
+              "metadataKind": "TemporalSpanMetadata",
+              "spanValues": [
+                {
+                  "timex": "(1950-01-01,1960-01-01,P10Y)",
+                  "duration": "P10Y",
+                  "begin": "1950-01-01"
+                }
+              ],
+              "modifier": "Since"
+            }
+          },
+          {
+            "text": "now",
+            "category": "DateTime",
+            "type": "DateAndTime",
+            "offset": 193,
+            "length": 3,
+            "confidenceScore": 0.8,
+            "tags": [
+              {
+                "name": "DateAndTime",
+                "confidenceScore": 0.8
+              },
+              {
+                "name": "DateTime",
+                "confidenceScore": 0.8
+              }
+            ],
+            "metadata": {
+              "metadataKind": "DateTimeMetadata",
+              "dateValues": [
+                {
+                  "timex": "PRESENT_REF",
+                  "value": "2025-03-16 18:06:01"
+                }
+              ]
+            }
+          },
+          {
+            "text": "office rooms",
+            "category": "Location",
+            "type": "Location",
+            "offset": 276,
+            "length": 12,
+            "confidenceScore": 0.93,
+            "tags": [
+              {
+                "name": "Location",
+                "confidenceScore": 0.93
+              }
+            ]
+          },
+          {
+            "text": "flight",
+            "category": "Event",
+            "type": "Event",
+            "offset": 308,
+            "length": 6,
+            "confidenceScore": 0.66,
+            "tags": [
+              {
+                "name": "Event",
+                "confidenceScore": 0.66
+              }
+            ]
+          },
+          {
+            "text": "home",
+            "category": "Location",
+            "type": "Location",
+            "offset": 315,
+            "length": 4,
+            "confidenceScore": 0.85,
+            "tags": [
+              {
+                "name": "Location",
+                "confidenceScore": 0.85
+              }
+            ]
+          },
+          {
+            "text": "British Museum",
+            "category": "Location",
+            "type": "Location",
+            "offset": 356,
+            "length": 14,
+            "confidenceScore": 0.94,
+            "tags": [
+              {
+                "name": "Location",
+                "confidenceScore": 0.94
+              }
+            ]
+          }
+        ],
+        "warnings": []
+      }
+    ],
+    "errors": [],
+    "modelVersion": "2024-04-15-preview"
+  }
